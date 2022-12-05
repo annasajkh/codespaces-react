@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/annasajkh.github.io/codespaces-react/static/css/main.908338f5.css",
+    "main.js": "/annasajkh.github.io/codespaces-react/static/js/main.9796f05c.js",
+    "static/js/787.2dc4bfe2.chunk.js": "/annasajkh.github.io/codespaces-react/static/js/787.2dc4bfe2.chunk.js",
+    "index.html": "/annasajkh.github.io/codespaces-react/index.html",
+    "main.908338f5.css.map": "/annasajkh.github.io/codespaces-react/static/css/main.908338f5.css.map",
+    "main.9796f05c.js.map": "/annasajkh.github.io/codespaces-react/static/js/main.9796f05c.js.map",
+    "787.2dc4bfe2.chunk.js.map": "/annasajkh.github.io/codespaces-react/static/js/787.2dc4bfe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.908338f5.css",
+    "static/js/main.9796f05c.js"
+  ]
+}
